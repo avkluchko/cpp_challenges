@@ -3,4 +3,4 @@ project(cpp_challenges)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(challenges src/main.cpp)
+add_executable(challenges src/task01.cpp)
